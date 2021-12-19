@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spacious-planets/static/css/main.6c8d2c55.css",
-    "main.js": "/spacious-planets/static/js/main.3d62f9ae.js",
+    "main.js": "/spacious-planets/static/js/main.070bf066.js",
     "static/js/787.f2a7509c.chunk.js": "/spacious-planets/static/js/787.f2a7509c.chunk.js",
     "static/media/bootstrap-icons.woff?": "/spacious-planets/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
     "static/media/character8.png": "/spacious-planets/static/media/character8.c302566182cc7a361415.png",
@@ -31,11 +31,11 @@
     "static/media/planet-alpha9.svg": "/spacious-planets/static/media/planet-alpha9.1e7e89f241b5f6689bd0f3da547a53e2.svg",
     "index.html": "/spacious-planets/index.html",
     "main.6c8d2c55.css.map": "/spacious-planets/static/css/main.6c8d2c55.css.map",
-    "main.3d62f9ae.js.map": "/spacious-planets/static/js/main.3d62f9ae.js.map",
+    "main.070bf066.js.map": "/spacious-planets/static/js/main.070bf066.js.map",
     "787.f2a7509c.chunk.js.map": "/spacious-planets/static/js/787.f2a7509c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c8d2c55.css",
-    "static/js/main.3d62f9ae.js"
+    "static/js/main.070bf066.js"
   ]
 }
