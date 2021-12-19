@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/spacious-planets/static/css/main.6c8d2c55.css",
+    "main.js": "/spacious-planets/static/js/main.3d62f9ae.js",
+    "static/js/787.f2a7509c.chunk.js": "/spacious-planets/static/js/787.f2a7509c.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/spacious-planets/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/character8.png": "/spacious-planets/static/media/character8.c302566182cc7a361415.png",
+    "static/media/character10.png": "/spacious-planets/static/media/character10.18e9f3be039b711ac209.png",
+    "static/media/character9.png": "/spacious-planets/static/media/character9.84f3f61137eabca6d4aa.png",
+    "static/media/character6.png": "/spacious-planets/static/media/character6.c7a9f82dc4c7077cfe56.png",
+    "static/media/bootstrap-icons.woff2?": "/spacious-planets/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/character2.png": "/spacious-planets/static/media/character2.8437610a9619728da6c3.png",
+    "static/media/character3.png": "/spacious-planets/static/media/character3.ecfbd71a157e4d9edc5d.png",
+    "static/media/character15.png": "/spacious-planets/static/media/character15.6e42815377df397061a6.png",
+    "static/media/character11.png": "/spacious-planets/static/media/character11.2d93db829fe7f03df016.png",
+    "static/media/character16.png": "/spacious-planets/static/media/character16.2ef0cc89399bef79cfad.png",
+    "static/media/character1.png": "/spacious-planets/static/media/character1.b23ee08fb24787740f82.png",
+    "static/media/character17.png": "/spacious-planets/static/media/character17.04303512d44e94652616.png",
+    "static/media/character14.png": "/spacious-planets/static/media/character14.f27b4ab0ed3a03cfb470.png",
+    "static/media/character13.png": "/spacious-planets/static/media/character13.aa5a2d2646b57e658637.png",
+    "static/media/character12.png": "/spacious-planets/static/media/character12.f3ef8b31aae1859f2362.png",
+    "static/media/planet-loader.svg": "/spacious-planets/static/media/planet-loader.7e1845229e281949b2eff4665899739e.svg",
+    "static/media/planet-alpha1.svg": "/spacious-planets/static/media/planet-alpha1.c5b1f7499ca7ba075f79d08d4efeeca0.svg",
+    "static/media/planet-alpha2.svg": "/spacious-planets/static/media/planet-alpha2.48c0a61036aefab266cb9d0b82adee69.svg",
+    "static/media/planet-alpha3.svg": "/spacious-planets/static/media/planet-alpha3.92952d74e1ce462f141cba0723d1ffdb.svg",
+    "static/media/planet-alpha4.svg": "/spacious-planets/static/media/planet-alpha4.66e9910c61874ba19a6f0f4bed59ee37.svg",
+    "static/media/planet-alpha5.svg": "/spacious-planets/static/media/planet-alpha5.2f74e7f81a29149b96af1452831be805.svg",
+    "static/media/planet-alpha6.svg": "/spacious-planets/static/media/planet-alpha6.384a5457715c8e52bf1816226f6997d4.svg",
+    "static/media/planet-alpha7.svg": "/spacious-planets/static/media/planet-alpha7.83ed008c1cabfe2851f1afc966c6b314.svg",
+    "static/media/planet-alpha8.svg": "/spacious-planets/static/media/planet-alpha8.dcf17b9a0a4f7b3a736852d16454340d.svg",
+    "static/media/planet-alpha9.svg": "/spacious-planets/static/media/planet-alpha9.1e7e89f241b5f6689bd0f3da547a53e2.svg",
+    "index.html": "/spacious-planets/index.html",
+    "main.6c8d2c55.css.map": "/spacious-planets/static/css/main.6c8d2c55.css.map",
+    "main.3d62f9ae.js.map": "/spacious-planets/static/js/main.3d62f9ae.js.map",
+    "787.f2a7509c.chunk.js.map": "/spacious-planets/static/js/787.f2a7509c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c8d2c55.css",
+    "static/js/main.3d62f9ae.js"
+  ]
+}
