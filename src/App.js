@@ -10,7 +10,7 @@ import Planetload from './components/Planetload';
 function App() {
   
   return (
-    <Router >
+    <Router basename={window.location.pathname || ''}>
     <div className="App">
      
       <div>
